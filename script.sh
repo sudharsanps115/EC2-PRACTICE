@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "new build at $(date)"
+echo "2 nd new build at $(date)"
